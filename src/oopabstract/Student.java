@@ -1,6 +1,9 @@
 package oopabstract;
 
 public class Student extends Person{
+    public Student(String string) {
+    }
+
     @Override
     public void work() {
         System.out.println("is studying");

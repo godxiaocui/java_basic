@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/学习/java基础/第二部/day25-阶段项目（综合练习&amp;doudizhu游戏）/代码/斗地主完整代码/doudizhu/doudizhu.iml" filepath="$USER_HOME$/学习/java基础/第二部/day25-阶段项目（综合练习&amp;doudizhu游戏）/代码/斗地主完整代码/doudizhu/doudizhu.iml" />
+      <module fileurl="file://$USER_HOME$/学习/java基础/第二部/day25-阶段项目（综合练习&amp;doudizhu游戏）/代码/上课代码-1/farmerandlord/farmerandlord.iml" filepath="$USER_HOME$/学习/java基础/第二部/day25-阶段项目（综合练习&amp;doudizhu游戏）/代码/上课代码-1/farmerandlord/farmerandlord.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basic.iml" filepath="$PROJECT_DIR$/java_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/puzzlegame/puzzlegame.iml" filepath="$PROJECT_DIR$/puzzlegame/puzzlegame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
